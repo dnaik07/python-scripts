@@ -1,21 +1,16 @@
-# Python Scripts Repository
+# Python Control Structures Assignment
 
-## Project Description
-This repository contains beginner-friendly Python scripts demonstrating user input handling and basic operations.
+This repository contains solutions for Assignment 2 (Module 3: Control Structures in Python)
 
-## Scripts Overview
+## Programs
 
-### Task 1: Basic Mathematical Operations (`math_operations.py`)
-**Functionality**:  
-Performs addition, subtraction, multiplication, and division on two user-provided numbers.  
-[Include Task 1 details from previous response...]
+### 1. Even/Odd Checker (`even_odd.py`)
+- Takes an integer input and determines if it's even or odd
+- Features:
+  - Input validation
+  - Clear if-else logic
+  - Error handling
 
-### Task 2: Personalized Greeting (`greeting.py`)
-**Functionality**:  
-Generates a customized greeting using a user's first and last name.  
-[Include Task 2 details above...]
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/python-scripts.git
+**Usage:**
+```bash
+python even_odd.py
